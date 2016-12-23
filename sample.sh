@@ -1,1 +1,1 @@
-sleep 25
+sleep 30
